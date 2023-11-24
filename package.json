@@ -12,7 +12,15 @@
     "url": "https://github.com/jfadev/bottok/issues"
   },
   "homepage": "https://jordifernandes.com/bottok",
-  "keywords": ["tiktok", "viewbot", "likebot", "followbot", "sharebot", "js", "nodejs"],
+  "keywords": [
+    "tiktok",
+    "viewbot",
+    "likebot",
+    "followbot",
+    "sharebot",
+    "js",
+    "nodejs"
+  ],
   "author": "Jordi Fernandes Alves <jfadev@gmail.com>",
   "license": "ISC",
   "dependencies": {
